@@ -1,7 +1,13 @@
 # figma-3
 재직자 피그마 수업 7/14 개강
-### https://www.figma.com/design/qa5TjT4aEllXyU1lQ85J1N/figma-3?node-id=0-1&p=f&t=dlEFCQyZQAyVpqmL-0
+### https://www.figma.com/design/qa5TjT4aEllXyU1lQ85J1N/figma-3?node-id=2-4&t=iYDp6OwSbmndzKqK-0
 
 # 25/07/18 금 수업내용
 - 교재 : 컴포넌트(p 120), 프로토타입(p 170 ~ p 180), 베리언츠(p 146)
+
+  위 url주소 접속하여 3일차 예제 3가지 만들기 진행
+
+  (오토레이아웃을 중점을 제작, 체크버튼 클릭 이벤트 진행할 수 있는 프로토타입 구현, 프레임을 오가는 프로토타입 구현)
+
+  월요일에 컴포넌트 + 프로토타입 복습 겸 추가 진행 예정
 
